@@ -7,7 +7,7 @@ Prepared October 30, 2026
 
 ## 1. Purpose
 
-Invite White Center Food Bank (WCFB) leadership to consider a limited, no-cost exploratory discussion and fictional workflow demonstration. The purpose is to learn whether a structured handoff or follow-through record might help in one staff-selected workflow—not to sell a finished operational platform.
+Invite White Center Food Bank (WCFB) leadership to become an early thought partner in exploring a people-first approach to clearer handoffs and accountable follow-through. The larger ambition is to learn whether a practical, adaptable pattern could eventually help community-serving organizations coordinate important work with greater clarity. The first step is intentionally modest: a no-cost conversation and fictional demonstration of one staff-selected workflow. This is an invitation to help shape an idea—not a claim that a proven platform or world-changing result already exists.
 
 ## 2. Respect for current operations
 
@@ -88,7 +88,7 @@ The current Maya Node workflow lab is a browser-based prototype using fictional 
 
 If useful to your team, I would be glad to offer an initial no-cost discussion and a narrowly scoped demonstration using synthetic data only. The initial demonstration would require no access to White Center systems, no software installation, no outbound organizational messages, no changes to existing procedures, and no obligation to continue. We would agree on the boundaries before the session and stop if the activity is not useful.
 
-If there is interest, the first step would simply be to identify one workflow your staff would like to discuss and agree on what a useful demonstration would need to show. Thank you for considering the invitation and for the work you do in the community.
+If there is interest, the first step would be to identify one workflow your staff would like to discuss and agree on what a useful demonstration would need to show. Your team's candid feedback—including disagreement or a decision not to proceed—would help shape whether and how this concept develops. We would be honored to have WCFB's perspective as an early contributor to that learning. Thank you for considering the invitation and for the work you do in the community.
 
 With respect,  
 Mya P. Brown  
