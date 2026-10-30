@@ -6,15 +6,15 @@ Review copy; confirm and approve before external presentation.
 
 ---
 
-## Slide 1 — Exploratory Food-Bank Workflow Evaluation
+## Slide 1 — Help Shape What Comes Next
 
 **On-slide content**
 - Civic Continuum & Maya Node
-- A leadership discussion about clearer handoffs, human authority, and accountable follow-through
+- An opportunity to help shape a practical, human-centered approach that could inform community-serving organizations beyond one pilot
 - Prepared for White Center Food Bank leadership
 
 **Presenter script**  
-Thank you for taking the time to meet. I'm Mya Brown, founder of Civic Continuum. I'm developing Maya Node around a straightforward principle: technical capability does not confer authority. Today is not a request to replace your systems or change your procedures. It is an invitation to see whether one small, clearly bounded workflow discussion and fictional demonstration might be useful.
+Thank you for taking the time to meet. I'm Mya Brown, founder of Civic Continuum. I'm developing Maya Node around a straightforward principle: technical capability does not confer authority. I believe the next generation of community-serving tools should be shaped with the people who understand the work. Today is an invitation to help challenge and shape that idea. We start with one small, clearly bounded workflow discussion and fictional demonstration—not a system replacement or a request to change your procedures.
 
 ## Slide 2 — Respecting the Work Already in Place
 
@@ -82,7 +82,7 @@ A second fictional scenario concerns an unusual delivery or quantity discrepancy
 **Presenter script**  
 A third scenario looks at follow-through. A fictional concern is received, assigned to an owner, reviewed, given an authorized next step, and closed with a human-entered completion note. This does not manage real complaints, notify staff, verify repairs, or guarantee that nothing is missed. It simply lets us discuss whether a clearer record of ownership and completion would help.
 
-## Slide 8 — A Practical Next Step
+## Slide 8 — Be an Early Voice in Shaping What Comes Next
 
 **On-slide content**
 - Start with one conversation.
@@ -91,7 +91,7 @@ A third scenario looks at follow-through. A fictional concern is received, assig
 - Synthetic data only; no system access or installation; no outbound organizational messages; no obligation to continue.
 
 **Presenter script**  
-If one of these areas is worth exploring, I would be glad to return with a small fictional demonstration shaped around a workflow your staff select. The initial discussion and agreed demonstration would be no-cost, use synthetic data only, require no access to your systems, and create no obligation to continue. If it is not useful, your existing processes remain exactly as they are. Thank you for considering it.
+If one of these areas is worth exploring, I would be excited to learn alongside your team. Your experience can help us distinguish a genuinely useful idea from one that merely sounds impressive. Any future growth must be earned through listening, testing, and evidence. The initial discussion and agreed demonstration would be no-cost, use synthetic data only, require no access to your systems, and create no obligation to continue. If it is not useful, your existing processes remain exactly as they are. Thank you for considering it.
 
 ---
 
