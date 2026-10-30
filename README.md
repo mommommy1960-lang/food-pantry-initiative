@@ -1,9 +1,9 @@
 # Food Pantry Initiative — Civic Continuum & Maya Node
 
-**Exploratory Food-Bank Workflow Evaluation**  
+**Help shape what comes next for community food support.**  
 Prepared for White Center Food Bank leadership • October 30, 2026
 
-This repository contains the actual leadership discussion package—not just a project description.
+This is an invitation to White Center Food Bank to become an early thought partner in exploring a people-first approach to clearer handoffs and accountable follow-through. The larger possibility is an approach that, if it proves useful through careful testing, could be adapted by other community-serving organizations. The first step is modest, no-cost, and entirely fictional-data based.
 
 ## Start here
 1. [Leadership proposal and draft cover letter](PROPOSAL_PACKET.md)
